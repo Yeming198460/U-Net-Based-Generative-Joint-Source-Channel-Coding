@@ -1,6 +1,6 @@
 # U-Net-Based-Generative-Joint-Source-Channel-Coding for Wireless Image Transmission
 
-Source code for the article: [1] M. Ye, K. Cai, C. Pan, Z. Mei, W. Yang, and C. Li, “U-Net-Based-Generative-Joint-Source-Channel-Coding for Wireless Image Transmission,”  IEEE Transactions on Cognitive Communications and Networking, under review.
+Source code for the article: [1] M. Ye, K. Cai, C. Pan, Z. Mei, W. Yang, C. Li, and B. Wang, “U-Net-Based-Generative-Joint-Source-Channel-Coding for Wireless Image Transmission,”  IEEE Transactions on Cognitive Communications and Networking, under review.
 
 If you use this simulation code package in any way, please cite the original paper [1] above. For questions regarding the code, please contact Ming Ye at 230198460@aa.seu.edu.cn.
 
